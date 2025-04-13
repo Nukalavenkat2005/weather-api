@@ -58,3 +58,24 @@ This app uses **OpenWeatherMap API**, so you need an API key:
 **Nukalavenkat2005**  
 🔗 [GitHub](https://github.com/Nukalavenkat2005)
 
+
+
+![Screenshot 2025-04-13 131415](https://github.com/user-attachments/assets/bc8bebbb-0b0c-4366-b97d-a3323d4a0548)
+
+
+
+
+
+![Screenshot 2025-04-13 131426](https://github.com/user-attachments/assets/9d9ebf37-3663-4ffb-9818-f437c55492c6)
+
+
+
+
+
+
+
+
+
+
+
+
